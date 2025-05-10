@@ -70,8 +70,6 @@ O **Azure OpenAI Service** oferece acesso aos modelos da OpenAI (como GPT-4, Cod
 
 ## 🤖 Copilot e Ferramentas Assistidas por IA
 
-O **GitHub Copilot**, por exemplo, é um copiloto de programação que auxilia na escrita de código com sugestões contextuais, baseando-se em prompts de linguagem natural. Outros copilotos incluem assistentes em ferramentas como Word, Excel, Power BI, etc.
-
 ### ⚠️ Filtros de Conteúdo e Segurança
 A Microsoft aplica filtros de conteúdo, moderação e auditoria para garantir o uso responsável da IA. Isso inclui:
 - Detecção de conteúdo sensível ou ofensivo
